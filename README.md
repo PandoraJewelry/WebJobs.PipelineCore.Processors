@@ -4,6 +4,7 @@
 This assembly will enable different processors to be used in a [pipline](3).
 
 Built-in pipelines
+
 1. `HalfLifeRenewMessageProcessor`: automaticaly renew the message every halflife
 
 ## Our use case
